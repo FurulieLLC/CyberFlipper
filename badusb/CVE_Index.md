@@ -102,3 +102,7 @@
 | 2026-09-02 | CVE-2026-83548 | SonicWall | SMA1000 Appliances | network | [NETWORK](CVE_Daily/2026-09-02/CVE-2026-83548_NETWORK.txt) |
 | 2026-09-02 | CVE-2026-83549 | SonicWall | SMA1000 Appliances | network | [NETWORK](CVE_Daily/2026-09-02/CVE-2026-83549_NETWORK.txt) |
 | 2026-09-04 | CVE-2026-85046 | Google | Chromium V8 | windows | [WINDOWS](CVE_Daily/2026-09-04/CVE-2026-85046_WINDOWS.txt) |
+| 2026-09-08 | CVE-2026-75650 | Adobe | Commerce and Magento | windows, linux | [WINDOWS](CVE_Daily/2026-09-08/CVE-2026-75650_WINDOWS.txt) [LINUX](CVE_Daily/2026-09-08/CVE-2026-75650_LINUX.txt) |
+| 2026-09-08 | CVE-2026-81963 | Microsoft | Windows | windows | [WINDOWS](CVE_Daily/2026-09-08/CVE-2026-81963_WINDOWS.txt) |
+| 2026-09-08 | CVE-2026-86218 | N-able | N-central | windows, linux | [WINDOWS](CVE_Daily/2026-09-08/CVE-2026-86218_WINDOWS.txt) [LINUX](CVE_Daily/2026-09-08/CVE-2026-86218_LINUX.txt) |
+| 2026-09-08 | CVE-2026-85880 | Microsoft | Windows | windows | [WINDOWS](CVE_Daily/2026-09-08/CVE-2026-85880_WINDOWS.txt) |
